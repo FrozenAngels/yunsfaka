@@ -13,9 +13,9 @@
  2. 服务器最好为linux
 
 ## 反馈
-[演示链接][1]
+[演示链接][2]
 
 
-  [1]: http://demo.xiangfa.me
+  [2]: http://demo.xiangfa.me
 
 QQ群：568679748
