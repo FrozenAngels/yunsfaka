@@ -1,3 +1,11 @@
+## 已停止更新
+ 
+
+ 新版已发布[新版本地址][3]
+ [3]: https://github.com/assimon/ysfaka
+
+
+
 ## 安装教程
  1.将根目录指向为/public
 
