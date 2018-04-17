@@ -1,7 +1,7 @@
 ## 已停止更新
  
 
- 新版已发布[新版本地址][3]
+ 新版已发布[3]
  [3]: https://github.com/assimon/ysfaka
 
 
